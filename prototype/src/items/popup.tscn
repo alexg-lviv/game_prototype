@@ -1,0 +1,32 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://src/items/popup.gd" type="Script" id=1]
+
+[node name="Popup" type="Popup"]
+margin_left = 272.0
+margin_top = 464.0
+margin_right = 752.0
+margin_bottom = 544.0
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Polygon2D" type="Polygon2D" parent="."]
+modulate = Color( 1, 1, 1, 0.721569 )
+position = Vector2( 77.02, 16 )
+scale = Vector2( 0.813748, 0.714286 )
+color = Color( 0.109804, 0.113725, 0.133333, 1 )
+polygon = PoolVector2Array( -16, -32, -16, 80, 416, 80, 416, -32 )
+
+[node name="Label" type="Label" parent="."]
+margin_left = 144.0
+margin_top = 16.0
+margin_right = 336.0
+margin_bottom = 48.0
+text = "double jump boost"
+align = 1
+valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}

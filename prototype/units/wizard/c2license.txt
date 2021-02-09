@@ -1,0 +1,9 @@
+License type: PERSONAL
+Product: Construct 2
+Licensed to: xsion.net
+Email: support@xsion.net
+Comment: 
+Timestamp: 1487514352
+Hash: 795DD06FE0C0F60672EC1A0323C8D5BDE086797B293D1B6
+
+This is PRIVATE license. Please TURN OFF "UPDATE CHECKING" in C2 preferences BEFORE USE!!!
